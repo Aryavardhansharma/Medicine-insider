@@ -1,0 +1,170 @@
+body
+{
+    font-family: "Montserrat", sans-serif;
+    background-image: url() ;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-size: 100%;  
+    margin: 0;      
+}
+h1 {
+    background-image: url(Assets/pexels-padrinan-3882464.jpg) ;
+    padding: 10px;
+     text-align: center;
+     /* position: relative; */
+    /* clear: both; */
+    font-size: 41px;
+    margin: 0;
+    color: azure;
+    padding-top: 20;
+    padding-bottom: 20;
+    background-size: cover;
+}
+
+ins 
+{
+    width: 100%;
+    text-align: center;
+}
+h3
+{
+    margin: 0;
+    margin-top: 33px;
+    font-size: 38px;
+    
+    
+
+}
+
+
+p.p1 {
+    
+    font-weight: 600;
+    font-size:15px;
+    padding-left: 5%;
+    padding-right:5% ;
+    margin: 0;
+
+}
+
+
+.img3,.img2,.img4
+{
+    padding: 120;
+    height: 300px;
+    width: 250px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.p2
+{
+    background-color: darkseagreen ;
+}
+.a2:link
+{
+    color: red;
+    font-weight: bold;    
+}
+.a2:visited
+{
+    color: rgb(25, 223, 197);
+}
+.a2:hover
+{
+    color:rgb(25, 169, 9);
+}
+.a2:active
+{
+    color: yellow;
+}
+.a1:hover
+{
+    color: rgb(25, 169, 9);
+}
+.a:active
+{
+    color: yellow;
+}
+
+.a1
+{
+   color: rgb(0, 0, 0);
+   text-decoration: none;
+}
+.p3
+{
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: overline;
+    margin: 0;
+    margin-top: -12px;
+}
+.t2
+{
+    border-style: solid;
+    font-weight: bold;
+    
+}
+.t2
+{
+    width: 100%;
+}
+th
+{
+    font-size: 20px;
+}
+td{
+    text-align: center;
+}
+.p4
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+a
+{
+    
+    color: aqua;
+}
+a:hover
+{
+    color: mediumspringgreen;
+}
+.p5
+{
+    background-color: aqua;
+}
+footer
+{
+    background-image: url(Assets/pexels-padrinan-3882464.jpg);
+    background-size: cover;
+    padding-bottom: 261px;
+
+}
+.p6
+{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 26px;
+    text-decoration: underline;
+    padding-top: 18px;
+    margin: 0;
+}
+.p7
+{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+}
+.p8
+{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    padding-top: 35px;
+    font-size: 22px;
+}

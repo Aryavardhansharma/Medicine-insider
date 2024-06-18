@@ -60,7 +60,12 @@ h3
     font-weight: bold;
     padding-right: 15px;
     padding-top: 40px;
+    
 
+}
+.img6
+{
+    border-radius: 100%
 }
 
 
@@ -71,6 +76,7 @@ h3
     width: 250px;
     padding-top: 30px;
     padding-bottom: 30px;
+    border-radius: 100%;
 }
 .p2
 {
@@ -107,14 +113,15 @@ h3
    color: rgb(0, 0, 0);
    text-decoration: none;
 }
-.p3
-{
+.p3 {
     font-weight: bold;
     text-align: center;
     font-size: 40px;
-    text-decoration: overline;
+    text-decoration: underline;
     margin: 0;
     margin-top: -12px;
+    padding-top: 21px;
+    padding-bottom: 20px;
 }
 .t2
 {
@@ -230,4 +237,10 @@ ul
 {
     text-decoration: none;
     color: aliceblue;
+}
+.div2
+{
+    padding-left: 50;
+    padding-right: 50;
+
 }

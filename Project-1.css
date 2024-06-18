@@ -158,13 +158,59 @@ footer
     color: aliceblue;
     font-weight: bold;
     font-size: 15px;
-    text-decoration: none;
+    
 }
 .p8
 {
     text-align: center;
     color: aliceblue;
     font-weight: bold;
-    padding-top: 35px;
+    padding-top: 185px;
     font-size: 22px;
+}
+.div1
+{
+    background-color: black;
+    color: aliceblue;
+    font-size: 20;
+    text-align: right;
+    font-weight: bold;
+    margin: 0;
+    
+}
+.a3
+{
+    text-decoration: none;
+    color: aliceblue;
+}
+.a2
+{
+    color: red;
+}
+ul
+{
+    text-decoration: none;
+}
+.th1,.th2,.th3
+{
+    color: aliceblue;
+    padding-right: 12px;
+
+}
+.img5
+{
+    width: 28px;
+}
+.div1
+{
+    margin-left: 1107px;
+}
+.t3 
+{
+    padding-left: 42px;
+}
+.a4
+{
+    text-decoration: none;
+    color: aliceblue;
 }
